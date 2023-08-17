@@ -18,26 +18,27 @@ To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/SonuSV7719/Image-Caption-Generator.git
 cd Image-Caption-Generator
+```
 
 ## Installation
 
 ```bash
 python -m venv venv
 source venv/bin/activate      # On Windows: .\venv\Scripts\activate
+```
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
 ```bash
 streamlit run app.py
-
+```
 ## Project Structure
 
 .
-├── app.py                  # Main Streamlit app script
-├── images/                 # Folder for storing input images
 ├── models/                 # Directory for model checkpoints
 ├── Jupyter Notebooks/      # Directory for Jupyter notebooks and experimentation
 ├── Image_Caption_generator.py # Python script for image caption generation
