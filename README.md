@@ -48,3 +48,12 @@ streamlit run app.py
 ├── requirements.txt        # Python dependencies
 └── LICENSE                 # Project license file
 ```
+
+## Requirements
+
+Python 3.7+
+See requirements.txt for the required Python packages.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project.
