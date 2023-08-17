@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-streamlit run app.py
+streamlit run .\Image_Caption_Generator.py
 ```
 
 ## Project Structure
