@@ -36,8 +36,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
 ## Project Structure
 
+```bash
 .
 ├── models/                 # Directory for model checkpoints
 ├── Jupyter Notebooks/      # Directory for Jupyter notebooks and experimentation
@@ -45,4 +47,4 @@ streamlit run app.py
 ├── README.md               # Project README file
 ├── requirements.txt        # Python dependencies
 └── LICENSE                 # Project license file
-
+```
